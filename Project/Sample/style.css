@@ -1,0 +1,24 @@
+
+body {
+ font: 12px Arial, Tahoma, Verdana, Sans-serifs;
+ background: url(background.png) repeat-x #90491e;
+ text-align: justify;
+ margin: 2px;
+ }
+ 
+ .trt{
+	 align-content:center;
+	  background:#6B2003;
+ }
+ 
+ .ttr{
+	 font:Constantia, "Lucida Bright", "DejaVu Serif", Georgia, serif;
+	 font-size:16px;
+	 margin:10px 100px 80px 400px;
+	 padding:40px;
+ }
+
+
+input {
+margin:5px 0px;
+}
